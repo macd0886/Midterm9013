@@ -37,6 +37,7 @@ DEFAULTS - MOBILE FIRST
 
 h1 {
     font: bold 4.236rem 'Ovo', 'Times New Roman', serif;
+    font-size: 5rem;
 }
 
 h2 {
@@ -47,7 +48,10 @@ li,
 p,
 a {
     font: bold 1.618rem 'Muli', 'Helvetica', sans-serif;
+    font-size: 1.3rem;
 }
+
+li {}
 
 pre,
 code,
@@ -97,6 +101,7 @@ nav a:visited {
     display: block;
     font: bold 1.618rem 'Droid Sans', 'more font stack stuff', sans-serif;
     text-align: center;
+    font-size: 1.3rem;
 }
 
 nav a:active,
